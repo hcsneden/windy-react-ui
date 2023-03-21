@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/windy-react-ui/static/css/main.073c9b0a.css",
-    "main.js": "/windy-react-ui/static/js/main.1d88fd2d.js",
+    "main.js": "/windy-react-ui/static/js/main.8fdca94d.js",
     "static/js/787.077863d6.chunk.js": "/windy-react-ui/static/js/787.077863d6.chunk.js",
     "static/media/logo.svg": "/windy-react-ui/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/windy-react-ui/index.html",
     "main.073c9b0a.css.map": "/windy-react-ui/static/css/main.073c9b0a.css.map",
-    "main.1d88fd2d.js.map": "/windy-react-ui/static/js/main.1d88fd2d.js.map",
+    "main.8fdca94d.js.map": "/windy-react-ui/static/js/main.8fdca94d.js.map",
     "787.077863d6.chunk.js.map": "/windy-react-ui/static/js/787.077863d6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.1d88fd2d.js"
+    "static/js/main.8fdca94d.js"
   ]
 }
