@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/windy-react-ui/static/css/main.073c9b0a.css",
-    "main.js": "/windy-react-ui/static/js/main.5baf5b80.js",
+    "main.css": "/windy-react-ui/static/css/main.c4f62d75.css",
+    "main.js": "/windy-react-ui/static/js/main.681ab451.js",
     "static/js/787.077863d6.chunk.js": "/windy-react-ui/static/js/787.077863d6.chunk.js",
     "index.html": "/windy-react-ui/index.html",
-    "main.073c9b0a.css.map": "/windy-react-ui/static/css/main.073c9b0a.css.map",
-    "main.5baf5b80.js.map": "/windy-react-ui/static/js/main.5baf5b80.js.map",
+    "main.c4f62d75.css.map": "/windy-react-ui/static/css/main.c4f62d75.css.map",
+    "main.681ab451.js.map": "/windy-react-ui/static/js/main.681ab451.js.map",
     "787.077863d6.chunk.js.map": "/windy-react-ui/static/js/787.077863d6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.5baf5b80.js"
+    "static/css/main.c4f62d75.css",
+    "static/js/main.681ab451.js"
   ]
 }
